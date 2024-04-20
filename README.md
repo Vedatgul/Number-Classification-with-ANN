@@ -1,4 +1,4 @@
-#  Number-Classification-with-ANN
+# Number-Classification-with-ANN
 
 ## Project Description
 In this project, developed a model that automatically classifies numbers using ANN. The model was trained and successfully tested using the MNIST dataset. Number classification models are an important technology that can be used in many areas, from optical character recognition (OCR) applications to recognizing numbers in financial documents.
